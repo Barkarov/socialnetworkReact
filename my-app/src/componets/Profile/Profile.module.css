@@ -1,0 +1,22 @@
+.content {
+  height: 800px;
+  grid-area: c;
+  background-color:rgb(197, 192, 192);
+  line-height: 25px;
+}
+
+.item {
+  
+}
+
+.posts {
+  
+  margin-top: 15px;
+  margin-left: 20px;
+  color:brown;
+}
+
+.cccc {
+  margin-left: 25px;
+}
+
