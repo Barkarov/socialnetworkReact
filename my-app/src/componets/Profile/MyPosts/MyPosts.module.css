@@ -1,13 +1,10 @@
 
 
 
+.postsBlock {
+  padding: 10px;
+}
+
 .posts {
-  color:darkcyan;
-   margin-left: 15px;
+  margin-top: 10px;
 }
-
-.post {
-  margin-left: 55px;
-  line-height: 25px;
-}
-
